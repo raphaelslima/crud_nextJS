@@ -32,19 +32,12 @@ Projeto de um software para um CRUD de clientes com NEXTJS.
 </ul> 
 
   
-
 ## Sobre a aplicação: 
 
   
-
-Esse sitema é uma aplicação que consiste as funcionalidades de criar, alterar, deleter e selecionar um determinado cliente, utilizando todas essas tecnologias para sua 
-
-construção. 
+Esse sitema é uma aplicação que consiste nas funcionalidades de criar, alterar, deleter e selecionar um determinado cliente, utilizando todas essas tecnologias para sua construção. 
 
   
-
-  
-
 ## Ficaria feliz com Feedbacks: 
 
   
