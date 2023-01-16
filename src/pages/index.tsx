@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { useEffect, useState } from "react";
 import CollectionClient from "../backend/db/collectionClient";
 import Button from "../components/Button";
